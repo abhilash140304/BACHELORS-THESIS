@@ -1,0 +1,21 @@
+{
+  "START": 0,
+  "END": 1,
+  "add_to_cart": 2,
+  "checkout": 3,
+  "home_view": 4,
+  "read_preview": 5,
+  "select_genre_fantasy": 6,
+  "select_genre_horror": 7,
+  "select_genre_mystery": 8,
+  "select_genre_romance": 9,
+  "select_genre_scifi": 10,
+  "session_end": 11,
+  "view_cart": 12,
+  "view_story": 13,
+  "view_story_fantasy": 14,
+  "view_story_horror": 15,
+  "view_story_mystery": 16,
+  "view_story_romance": 17,
+  "view_story_scifi": 18
+}
